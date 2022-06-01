@@ -1,0 +1,14 @@
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\bin\Debug\netcoreapp3.1\MethodsExcercise.exe
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\bin\Debug\netcoreapp3.1\MethodsExcercise.deps.json
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\bin\Debug\netcoreapp3.1\MethodsExcercise.runtimeconfig.json
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\bin\Debug\netcoreapp3.1\MethodsExcercise.runtimeconfig.dev.json
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\bin\Debug\netcoreapp3.1\MethodsExcercise.dll
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\bin\Debug\netcoreapp3.1\MethodsExcercise.pdb
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\obj\Debug\netcoreapp3.1\MethodsExcercise.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\obj\Debug\netcoreapp3.1\MethodsExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\obj\Debug\netcoreapp3.1\MethodsExcercise.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\obj\Debug\netcoreapp3.1\MethodsExcercise.AssemblyInfo.cs
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\obj\Debug\netcoreapp3.1\MethodsExcercise.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\obj\Debug\netcoreapp3.1\MethodsExcercise.dll
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\obj\Debug\netcoreapp3.1\MethodsExcercise.pdb
+C:\Users\David\Downloads\Repos\CSharp27\MethodsExcercise\MethodsExcercise\obj\Debug\netcoreapp3.1\MethodsExcercise.genruntimeconfig.cache
